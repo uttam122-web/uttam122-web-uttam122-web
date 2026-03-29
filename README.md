@@ -31,9 +31,9 @@
 ---
 
 ## 🎯 Goal
-To become a highly skilled Data Analyst / Data Engineer and solve real-world data problems.
+To become a highly skilled  Data Engineer and solve real-world data problems.
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/uttam-chhatrola-3bbbab227/
